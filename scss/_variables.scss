@@ -1,0 +1,73 @@
+$color-bg-main: #0a0a0c; 
+$color-bg-surface: #121318; 
+
+$color-text-primary: #ffffff; 
+$color-text-secondary: #7e8294; 
+
+$color-accent: #0055ff; 
+
+$color-border: #222430; 
+$color-border-hover: #3a3f55; 
+
+$font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 24px;
+$font-size-xxl: 32px;
+$font-weight-bold: 700;
+
+$spacing-xs: 8px;
+$spacing-sm: 16px;
+$spacing-md: 24px;
+$spacing-lg: 32px;
+$spacing-xl: 48px;
+
+$border-radius-sm: 4px;
+$radius-sm: 4px;
+$radius-md: 6px; 
+$radius-lg: 8px;
+
+$transition-fast: all 0.2s ease-in-out;
+$transition-base: all 0.3s ease-in-out;
+
+$breakpoint-sm: 480px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+$breakpoint-xxl: 1440px;
+
+$color-bg-main: #0a0a0c;
+$color-bg-surface: #121318;
+$color-text-primary: #ffffff;
+$color-text-secondary: #7e8294;
+$color-accent: #0055ff;
+$color-accent-hover: #0044cc; 
+$color-accent-cyan: #0055ff; 
+$color-border: #222430;
+$color-status-error: #ff4d4d;
+
+$font-family-base: 'Inter', sans-serif;
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 24px;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+$border-radius-sm: 4px;
+$border-radius-lg: 8px;
+$transition-base: 0.3s ease;
+$transition-fast: 0.15s ease;
+
+$glow-cyan: none;
+$glow-pink: none;
+$shadow-drawer: none;
